@@ -1,0 +1,1 @@
+</div><footer class="footer">CampusEvents · College Event Management System <span>Built with PHP & MySQL</span></footer></main></div></body></html>
